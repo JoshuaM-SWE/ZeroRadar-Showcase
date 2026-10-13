@@ -52,6 +52,9 @@ Screenshots of the dashboard, price history, and email notification can be added
 ![ZeroRadar dashboard](assets/dashboard.png)
 ![ZeroRadar email alert](assets/email-alert.png)
 -->
+## 📸 Project Preview
+
+![Project Preview](prev_zeroradar.png)
 
 ## 💡 What This Project Demonstrates
 
